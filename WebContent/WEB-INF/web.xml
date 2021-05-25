@@ -11,15 +11,15 @@
 	</context-param>
 	<context-param>
 		<param-name>URL</param-name>
-		<param-value>jdbc:mysql://localhost:3306/bd_avion?serverTimezone=Europe/Paris</param-value>
+		<param-value>jdbc:mysql://localhost:3306/<!-- A PERSONNALISER --></param-value>
 	</context-param>
 	<context-param>
 		<param-name>USER</param-name>
-		<param-value>root</param-value>
+		<param-value><!-- A PERSONNALISER --></param-value>
 	</context-param>
 	<context-param>
 		<param-name>PASSWORD</param-name>
-		<param-value>blablabla</param-value>
+		<param-value><!-- A PERSONNALISER --></param-value>
 	</context-param>
 
 	<welcome-file-list>
